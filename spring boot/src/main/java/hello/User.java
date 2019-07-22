@@ -8,7 +8,7 @@ import javax.persistence.Id;
  * 
 * @ClassName: User 
 * @Description: TODO(封装注册用户属性) 
-* @author LvYongjian 
+* @author LvYongjian luo 
 * @date 2019年7月3日 下午9:29:14 
 *
  */
