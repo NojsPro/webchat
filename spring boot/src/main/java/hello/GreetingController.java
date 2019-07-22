@@ -12,7 +12,7 @@ import hello.Greeting;
  * 
 * @ClassName: GreetingController 
 * @Description: TODO(聊天控制器) 
-* @author LvYongjian
+* @author LvYongjian luo
 * @date 2019年7月3日 下午10:01:43 
 *
  */
